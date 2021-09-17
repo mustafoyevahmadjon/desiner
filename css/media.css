@@ -1,0 +1,8 @@
+@media (min-width:576px) and (max-width:768px){
+    .prog img{
+        width: 100%;
+    }
+    .prog .col-6:nth-of-type(1){
+        margin-top: -90px !important;
+    }
+}
